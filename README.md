@@ -1,2 +1,3 @@
 # odin-recipes
-sample site
+This was a simple but highly beneficial project to learn and develope basic 
+html language skills. 
